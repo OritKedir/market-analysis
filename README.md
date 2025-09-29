@@ -1,4 +1,4 @@
-# market-analysis
+
 # Watermelon Market Analysis
 
 ## Project Overview
@@ -15,13 +15,9 @@ Analysis of watermelon market data using Excel to convert logarithmic values and
 
 ## Excel Functions Used
 - `EXP()` function to convert natural logs to actual values
-- Scatter plots for supply-demand curves
+- line graph for supply-demand curves
 - Basic formulas for economic calculations
 
-## Files
-- `watermelon_data.xlsx` - Original dataset with log values
-- `watermelon_analysis.xlsx` - Complete analysis with conversions and charts
-- `supply_demand_chart.png` - Final supply-demand graph
 
 ## Skills Demonstrated
 - Logarithmic conversions in Excel
